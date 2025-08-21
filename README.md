@@ -1,0 +1,1 @@
+Este repositório reúne as atividades que desenvolvo durante minha faculdade, utilizando a linguagem C. O objetivo é registrar minha evolução na programação, praticar a lógica e aplicar conceitos fundamentais da computação, servindo também como um portfólio de aprendizado contínuo.
